@@ -1,0 +1,15 @@
+Z:\Development\Github Repositories\Securely\Securely\obj\Debug\Securely.Form1.resources
+Z:\Development\Github Repositories\Securely\Securely\obj\Debug\Securely.Properties.Resources.resources
+Z:\Development\Github Repositories\Securely\Securely\obj\Debug\Securely.csproj.GenerateResource.Cache
+Z:\Development\Github Repositories\Securely\Securely\obj\Debug\Securely.csproj.CoreCompileInputs.cache
+Z:\Development\Github Repositories\Securely\Securely\bin\Debug\Securely.exe.config
+Z:\Development\Github Repositories\Securely\Securely\bin\Debug\Securely.exe
+Z:\Development\Github Repositories\Securely\Securely\bin\Debug\Securely.pdb
+Z:\Development\Github Repositories\Securely\Securely\obj\Debug\Securely.exe
+Z:\Development\Github Repositories\Securely\Securely\obj\Debug\Securely.pdb
+Z:\Development\Github Repositories\Securely\Securely\bin\Debug\Microsoft.WindowsAPICodePack.dll
+Z:\Development\Github Repositories\Securely\Securely\bin\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+Z:\Development\Github Repositories\Securely\Securely\bin\Debug\Microsoft.WindowsAPICodePack.Sensors.dll
+Z:\Development\Github Repositories\Securely\Securely\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+Z:\Development\Github Repositories\Securely\Securely\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+Z:\Development\Github Repositories\Securely\Securely\obj\Debug\Securely.csprojResolveAssemblyReference.cache
